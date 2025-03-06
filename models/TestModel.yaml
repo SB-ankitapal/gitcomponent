@@ -9,10 +9,11 @@ oneOf:
           id: 8z457gwxs18lo
   - x-stoplight:
       id: gzenec4rhi574
+    description: edit
     properties:
       telephone:
         type: string
         x-stoplight:
           id: jtror867rbecc
-type: object
 description: Modelling
+type: object
