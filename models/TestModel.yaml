@@ -1,0 +1,18 @@
+title: TestModel
+x-stoplight:
+  id: iub493xhdttze
+oneOf:
+  - properties:
+      id:
+        type: string
+        x-stoplight:
+          id: 8z457gwxs18lo
+  - x-stoplight:
+      id: gzenec4rhi574
+    properties:
+      telephone:
+        type: string
+        x-stoplight:
+          id: jtror867rbecc
+type: object
+description: Modelling
