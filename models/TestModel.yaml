@@ -1,7 +1,9 @@
 title: TestModel
 x-stoplight:
   id: iub493xhdttze
-oneOf:
+description: Modelling
+x-internal: false
+allOf:
   - properties:
       id:
         type: string
@@ -15,6 +17,4 @@ oneOf:
         type: string
         x-stoplight:
           id: jtror867rbecc
-description: Modelling
 type: object
-x-internal: false
